@@ -1,3 +1,11 @@
+## Changes
+
+- Added Daylight Hours Comparison: Given two city names, compare the length of the daylight hours between them and return the city with the longest day. In this context, "daylight hours" means the time between sunrise and sunset.
+
+- Added Rain Check: Given two city names, check which city it is currently raining in.
+
+- Created React frontend basic web app to test the features.
+
 # MyWeather App Tech Test
 
 Welcome to the MyWeather App Tech Test.
