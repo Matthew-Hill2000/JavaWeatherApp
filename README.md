@@ -4,6 +4,8 @@
 
 - Added Rain Check: Given two city names, check which city it is currently raining in.
 
+- Added tests for both features with each scenario tested.
+
 - Created React frontend basic web app to test the features.
 
 # MyWeather App Tech Test
